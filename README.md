@@ -26,7 +26,8 @@ async function hashImage(path) {
   console.log(hash);
 }
 
-hashImage("image.png");```
+hashImage("image.png");
+```
 
 
 compare the hash against the list here
