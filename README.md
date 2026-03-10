@@ -4,10 +4,15 @@ use this for your app
 https://raw.githubusercontent.com/ch-ez/scamsentry-hashes/main/hashes.json
 
 generate a perceptual hash for images  
+
 https://en.wikipedia.org/wiki/Perceptual_hashing
+
 DCT-based perceptual hash
+
 64 character hash
+
 node js phash 
+
 
 ```javascript
 // node js phash
