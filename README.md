@@ -1,4 +1,9 @@
-## how to use the hash List
+# normal users
+public bot:
+https://ch-ez.github.io/ScamSentry-site/
+
+# developers:
+## how to use the hash list for your own projects
 
 use this for your app  
 https://raw.githubusercontent.com/ch-ez/scamsentry-hashes/main/hashes.json
