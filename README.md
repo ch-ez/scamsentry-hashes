@@ -1,3 +1,5 @@
+[![GitHub stars](https://img.shields.io/github/stars/ch-ez/scamsentry-hashes?style=for-the-badge&logo=github)](https://github.com/ch-ez/scamsentry-hashes/stargazers)
+
 # normal users
 public bot:
 https://ch-ez.github.io/ScamSentry-site/
