@@ -1,4 +1,4 @@
-## Star History
+## Star History (you should star)
 
 <a href="https://www.star-history.com/?repos=ch-ez%2Fscamsentry-hashes&type=date&legend=top-left">
  <picture>
