@@ -1,14 +1,10 @@
-New hash system was done in collaboration with 
+## Collaboration
 
-https://github.com/tricrotism
+The new hash system was developed in collaboration with [@tricrotism](https://github.com/tricrotism). 
+Check our their projects!
 
-Check our their project @
-
-https://tricrotism.com/p/frostbite/
-
-and
-
-https://github.com/tricrotism/discord-image-hashes
+* **Frostbite:** [tricrotism.com/p/frostbite](https://tricrotism.com/p/frostbite/).
+* **Hashes:** [tricrotism/discord-image-hashes](https://github.com/tricrotism/discord-image-hashes).
 
 
 ## Star History (you should star)
