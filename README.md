@@ -7,65 +7,18 @@ Check our their projects!
 * **Hashes:** [tricrotism/discord-image-hashes](https://github.com/tricrotism/discord-image-hashes).
 
 
-## Star History (you should star)
-
-<a href="https://www.star-history.com/?repos=ch-ez%2Fscamsentry-hashes&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ch-ez/scamsentry-hashes&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ch-ez/scamsentry-hashes&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ch-ez/scamsentry-hashes&type=date&legend=top-left" />
- </picture>
-</a>
-# normal users
-public bot:
-https://ch-ez.github.io/ScamSentry-site/
 
 # developers:
-## how to use the hash list for your own projects
-
-use this for your app  
-https://raw.githubusercontent.com/ch-ez/scamsentry-hashes/main/hashes.json
-
-generate a perceptual hash for images  
-
-https://en.wikipedia.org/wiki/Perceptual_hashing
-
-DCT-based perceptual hash
-
-64 character hash
-
-node js phash 
+Uses DHash, left to right top to bottom.
 
 
-```javascript
-// node js phash
-const fs = require("fs");
-const phash = require("sharp-phash");
-
-async function hashImage(path) {
-  const buffer = fs.readFileSync(path);
-  const hash = await phash(buffer);
-
-  console.log(hash);
-}
-
-hashImage("image.png");
-```
-
-
-compare the hash against the list here
-
-64-character binary hashes, compare using Hamming distance.  
-If the distance is less than or equal to 12, treat it as a almost identical image.
-
-this list gets updated super often, mainly targetting mrbeast scam campaign.
-
-**very skidded**, but useful
-
-example of hashed images in this json
+# examples
 
 <img width="716" height="428" alt="image" src="https://github.com/user-attachments/assets/0faa8f00-81c6-4639-9415-6898e6a9d558" />
 
-<img width="716" height="428" alt="image" src="https://github.com/user-attachments/assets/890e155e-c549-4ed3-aab0-21d6bc689353" />
 
-<img width="712" height="420" alt="image" src="https://github.com/user-attachments/assets/a4f77ef0-79df-401f-bdfc-018f9fa8aacd" />
+**admin@scamsentry.app**
+**https://scamsentry.app**
+
+
+
