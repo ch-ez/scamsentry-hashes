@@ -1,3 +1,10 @@
+New hash system was done in collaboration with 
+https://github.com/tricrotism
+Check our their project @
+https://tricrotism.com/p/frostbite/
+and
+https://github.com/tricrotism/discord-image-hashes
+
 ## Star History (you should star)
 
 <a href="https://www.star-history.com/?repos=ch-ez%2Fscamsentry-hashes&type=date&legend=top-left">
