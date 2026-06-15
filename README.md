@@ -17,8 +17,7 @@ Uses DHash, left to right top to bottom.
 <img width="716" height="428" alt="image" src="https://github.com/user-attachments/assets/0faa8f00-81c6-4639-9415-6898e6a9d558" />
 
 
-**admin@scamsentry.app**
-
+# admin@scamsentry.app
 **https://scamsentry.app**
 
 
