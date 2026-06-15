@@ -1,9 +1,15 @@
 New hash system was done in collaboration with 
+
 https://github.com/tricrotism
+
 Check our their project @
+
 https://tricrotism.com/p/frostbite/
+
 and
+
 https://github.com/tricrotism/discord-image-hashes
+
 
 ## Star History (you should star)
 
