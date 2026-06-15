@@ -18,6 +18,7 @@ Uses DHash, left to right top to bottom.
 
 
 **admin@scamsentry.app**
+
 **https://scamsentry.app**
 
 
